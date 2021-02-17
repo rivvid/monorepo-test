@@ -9,7 +9,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "license": "UNLICENSED",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
