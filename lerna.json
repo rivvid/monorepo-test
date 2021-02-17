@@ -3,5 +3,8 @@
   "packages": [
     "packages/*"
   ],
+  "publish": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "version": "independent"
 }
