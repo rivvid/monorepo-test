@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 
 import { SHARED } from 'shared'
-console.log({ SHARED });
+console.log({ SHARED })
 
 Vue.config.productionTip = false
 
