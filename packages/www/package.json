@@ -1,6 +1,6 @@
 {
   "name": "@bambeehr/rivvid-www",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@bambeehr/rivvid-shared": "^1.0.2",
+    "@bambeehr/rivvid-shared": "^1.0.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
