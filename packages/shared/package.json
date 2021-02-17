@@ -1,6 +1,7 @@
 {
-  "name": "@bambeehr/rivvid-shared",
+  "name": "@rivvid/rivvid-shared",
   "version": "1.0.3",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +9,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "89b976a25710d6b0bae7a4568063386a93dd1c4b"
 }
