@@ -1,6 +1,10 @@
 {
   "name": "rivvid-monorepo",
-  "repository": "https://github.com/rivvid/monorepo-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rivvid/monorepo-test"
+  },
+  "license": "UNLICENSED",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"

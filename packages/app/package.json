@@ -1,6 +1,11 @@
 {
   "name": "@rivvid/rivvid-app",
-  "repository": "https://github.com/rivvid/monorepo-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rivvid/monorepo-test",
+    "directory": "packages/app"
+  },
+  "license": "UNLICENSED",
   "version": "1.0.7",
   "scripts": {
     "serve": "vue-cli-service serve",
