@@ -9,7 +9,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "license": "UNLICENSED",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -17,7 +17,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@rivvid/rivvid-shared": "^1.0.7",
+    "@rivvid/rivvid-shared": "^1.0.8",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
