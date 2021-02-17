@@ -6,7 +6,7 @@
     "directory": "packages/app"
   },
   "license": "UNLICENSED",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -14,7 +14,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@rivvid/rivvid-shared": "^1.0.6",
+    "@rivvid/rivvid-shared": "^1.0.7",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
