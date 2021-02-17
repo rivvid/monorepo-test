@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-import { SHARED } from 'shared'
+import { SHARED } from '@rivvid/rivvid-shared'
 console.log({ SHARED })
 
 Vue.config.productionTip = false
