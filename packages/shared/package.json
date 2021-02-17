@@ -1,5 +1,6 @@
 {
   "name": "@rivvid/rivvid-shared",
+  "repository": "https://github.com/rivvid/monorepo-test",
   "version": "1.0.5",
   "description": "",
   "main": "index.js",
@@ -9,5 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "cba4b98ccc11ec6d6071cde06937dde5f285c274"
+  "gitHead": "6817f2aa4a0e2387f67a71fc921cf033c15eb6f7"
 }

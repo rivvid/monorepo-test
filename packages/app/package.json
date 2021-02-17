@@ -1,5 +1,6 @@
 {
   "name": "@rivvid/rivvid-app",
+  "repository": "https://github.com/rivvid/monorepo-test",
   "version": "1.0.6",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -34,5 +35,5 @@
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "gitHead": "cba4b98ccc11ec6d6071cde06937dde5f285c274"
+  "gitHead": "6817f2aa4a0e2387f67a71fc921cf033c15eb6f7"
 }

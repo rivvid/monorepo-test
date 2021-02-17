@@ -1,5 +1,6 @@
 {
   "name": "rivvid-monorepo",
+  "repository": "https://github.com/rivvid/monorepo-test",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
