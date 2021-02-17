@@ -5,6 +5,9 @@
     "url": "https://github.com/rivvid/monorepo-test",
     "directory": "packages/app"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "UNLICENSED",
   "version": "1.0.9",
   "scripts": {
