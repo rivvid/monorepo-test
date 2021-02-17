@@ -33,5 +33,6 @@
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "gitHead": "cba4b98ccc11ec6d6071cde06937dde5f285c274"
 }
