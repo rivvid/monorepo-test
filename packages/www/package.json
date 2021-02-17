@@ -1,7 +1,7 @@
 {
   "name": "@rivvid/rivvid-www",
   "repository": "https://github.com/rivvid/monorepo-test",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npx lerna bootstrap && vue-cli-service build",
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@rivvid/rivvid-shared": "^1.0.5",
+    "@rivvid/rivvid-shared": "^1.0.6",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",

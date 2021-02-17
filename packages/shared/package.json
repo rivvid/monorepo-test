@@ -1,7 +1,7 @@
 {
   "name": "@rivvid/rivvid-shared",
   "repository": "https://github.com/rivvid/monorepo-test",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
