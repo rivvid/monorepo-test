@@ -12,7 +12,7 @@
   "version": "1.0.10",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "npx lerna bootstrap && vue-cli-service build",
+    "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
